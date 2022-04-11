@@ -16,7 +16,7 @@
 
 - 🔭 &nbsp; I’m a Full Stack Engineer.
 
-- 🔨 &nbsp; Working with Vue.js as Senior Frontend Engineer.
+- 🔨 &nbsp; Working with Node.js and Vue.js as Senior Frontend Engineer.
 
 - 📖 &nbsp; Learning Solidity and Smart Contracts development.
 
